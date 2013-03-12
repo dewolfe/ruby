@@ -24,7 +24,7 @@ require 'active_support/core_ext/hash/indifferent_access'
 require 'active_support/core_ext/string/inflections'
 require 'active_support/core_ext/object/try'
 require 'active_support/core_ext/object/blank'
-
+require 'active_support/core_ext/logger'
 
 class Pubnub
 
